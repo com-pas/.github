@@ -15,6 +15,6 @@ I want to ..
 
 So that..
 
-**Additional information**
+**Acceptance criteria**
 
-Give us some extra information about the desired feature.
+Descripe the initial acceptance critera.
