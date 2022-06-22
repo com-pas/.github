@@ -17,4 +17,4 @@ So that..
 
 **Acceptance criteria**
 
-Descripe the initial acceptance critera.
+Please describe the initial acceptance critera.
