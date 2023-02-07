@@ -8,10 +8,10 @@ The mission of LF Energy's CoMPAS project is to develop open source software com
 [Contributing help](https://com-pas.github.io/contributing/)
 
 👩‍💻 Useful resources
-[Website compas.energy](https://compas.energy)
-[CoMPAS LF energy wiki](https://wiki.lfenergy.org/display/SHP/)
-[CoMPAS architecture](https://com-pas.github.io/compas-architecture/)
-[LF energy Slack (CoMPAS has a channel](https://slack.lfenergy.org/)
+* [Website compas.energy](https://compas.energy)
+* [CoMPAS LF energy wiki](https://wiki.lfenergy.org/display/SHP/)
+* [CoMPAS architecture](https://com-pas.github.io/compas-architecture/)
+* [LF energy Slack (CoMPAS has a channel)](https://slack.lfenergy.org/)
 
 
 🍿 Demo environment
