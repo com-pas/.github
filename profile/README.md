@@ -12,7 +12,7 @@ and configuration of a power industry Protection Automation and Control System (
 
 ### 👩‍💻 Useful Resources
 - [Website compas.energy](https://compas.energy)
-- [CoMPAS LF energy wiki](https://wiki.lfenergy.org/display/SHP/)
+- [CoMPAS LF energy wiki](https://lf-energy.atlassian.net/wiki/spaces/SHP/overview)
 - [CoMPAS architecture](https://com-pas.github.io/compas-architecture/)
 - [CoMPAS channel on LF Energy's Slack](https://lfenergy.slack.com/archives/C01926K9D39)
 
