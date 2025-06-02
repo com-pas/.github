@@ -21,3 +21,6 @@ and configuration of a power industry Protection Automation and Control System (
 ### 🍿 Demo environment
 Would you like to see a demo of CoMPAS? You can try out our [CoMPAS demo environment](https://demo.compas.energy)  
 > **⚠️ Warning:** Please note that LF energy CoMPAS has a shared database, uploaded files can be seen by everyone.
+
+### Badges
+[![LFX Health Score](https://img.shields.io/static/v1?label=Health%20Score&message=Healthy&color=A7F3D0&logo=linuxfoundation&logoColor=white&style=flat)](https://insights.linuxfoundation.org/project/compas)
