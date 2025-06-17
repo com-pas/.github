@@ -24,3 +24,4 @@ Would you like to see a demo of CoMPAS? You can try out our [CoMPAS demo environ
 
 ### Badges
 [![LFX Health Score](https://img.shields.io/static/v1?label=Health%20Score&message=Healthy&color=A7F3D0&logo=linuxfoundation&logoColor=white&style=flat)](https://insights.linuxfoundation.org/project/compas)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/5925/badge)](https://www.bestpractices.dev/projects/5925)
